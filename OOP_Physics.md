@@ -96,3 +96,26 @@ public class ElectricChargeSystem {
     }
 }
   
+3. **_Print the values of the charges and the total charge in the system. Print the forces acting on each charge. Create an image showing the charges._**
+```java
+public class Main {
+    public static void main(String[] args) {
+        ElectricChargeSystem system = new ElectricChargeSystem(3);
+
+        // Add charges to the system
+        system.addCharge(new PointCharge(1.5, new Point3D(0, 0, 0)), 0);
+        system.addCharge(new PointCharge(-2.0, new Point3D(1, 1, 0)), 1);
+        system.addCharge(new PointCharge(0.5, new Point3D(-1, 2, 0)), 2);
+
+        // Print charge values and total charge
+        system.printChargeValues();
+        System.out.println("Total Charge: " + system.calculateTotalCharge());
+
+        // Print forces
+        system.printForces();
+
+        // Create charge visualization image
+        system.createChargeVisualization("charge_visualization.png", 800, 600);
+    }
+}
+```
