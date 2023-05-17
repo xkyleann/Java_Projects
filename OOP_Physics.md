@@ -95,7 +95,8 @@ public class ElectricChargeSystem {
         g2d.dispose();
     }
 }
-  
+```
+
 3. **_Print the values of the charges and the total charge in the system. Print the forces acting on each charge. Create an image showing the charges._**
 ```java
 public class Main {
