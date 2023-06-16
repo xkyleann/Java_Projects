@@ -17,6 +17,7 @@ Description: This project demonstrates my ability to using **_private fields, so
 In addition to the projects, this repository also includes a collection of Java code samples that showcase my coding style, problem-solving skills, and familiarity with Java best practices. These samples cover various topics, such as:
 
 - Physics: Java class representing a system of N point electric charges, statically distributed in 3D space.
+- Simple Library: Java class Book containing three private fields and improving project with using methods.
 
 Feel free to explore the code samples to get a better understanding of my coding abilities and approach.
 
