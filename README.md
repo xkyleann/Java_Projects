@@ -8,6 +8,9 @@ This repository contains a collection of Java projects and code samples showcasi
 
 Description: This project demonstrates my ability to combine **_physics with object oriented programming_**. It showcases my skills in implementing graphics, statically distributed in 3D space. 
 
+### Project 2: [Simple Library]
+
+Description: This project demonstrates my ability to using **_private fields, sorting and storing books_**. It showcases my skills in implementing orders and sorting. 
 
 ## Code Samples
 
@@ -26,4 +29,17 @@ You are welcome to browse through the projects and code samples in this reposito
 If you have any questions or would like to discuss any of the projects or code samples, please feel free to reach out to me. You can contact me via email at **_tutkuedibegayda@gmail.com_**
 
 Thank you for visiting my Java portfolio repository!
+
+### Documentation 
+<details>
+<summary>Project 1: OOP Physics </summary>
+<a href= "https://github.com/xkyleann/Java_Portfolio/files/11770773/Lab2.pdf"> Documentation 1</a>
+</details>
+
+<details>
+<summary>Project 2: Simple Library </summary>
+<a href= "https://github.com/xkyleann/Java_Portfolio/files/11770796/Lab3.pdf"> Documentation 2</a>
+</details>
+
+
 
