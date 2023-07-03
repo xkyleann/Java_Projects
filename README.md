@@ -24,6 +24,10 @@ Description: The Binary Maze project in Java aims to solve a maze represented as
 
 Description: This Java program detects plagiarism among scripts in a directory by comparing their similarity using the Hamming distance algorithm. It identifies copied or identical lines and displays the average Hamming distance and the number of identical lines.
 
+### Project 6: [Multithreading]
+
+Description: This project calculates the sum of an array using multithreading. It involves dividing the array into partial sums calculated by different threads. The total sum is then obtained by combining these partial sums.
+
 
 ## Code Samples
 
@@ -69,6 +73,13 @@ Thank you for visiting my Java portfolio repository!
 <summary>Project 5: Plagiarism Detector</summary>
 <a href= "https://github.com/xkyleann/Java_Portfolio/files/11939623/oo7-2.pdf"> Documentation 5</a>
 </details>
+
+<details>
+<summary>Project 6: Multithreading </summary>
+<a href= "https://github.com/xkyleann/Java_Portfolio/files/11939714/oo13.pdf"> Documentation 6</a>
+</details>
+
+
 
 
 
