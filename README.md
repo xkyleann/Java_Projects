@@ -12,6 +12,10 @@ Description: This project demonstrates my ability to combine **_physics with obj
 
 Description: This project demonstrates my ability to using **_private fields, sorting and storing books_**. It showcases my skills in implementing orders and sorting. 
 
+### Project 3: [Image Processing | Magpies]
+
+Description: The Image Processing project in Java focuses on detecting and removing specific patterns (referred to as "magpies") from an input image. It provides functionalities to load an image, convert it into a binary array, search for magpies using a reference image, and generate a clear image with the magpies removed.
+
 ## Code Samples
 
 In addition to the projects, this repository also includes a collection of Java code samples that showcase my coding style, problem-solving skills, and familiarity with Java best practices. These samples cover various topics, such as:
@@ -41,6 +45,13 @@ Thank you for visiting my Java portfolio repository!
 <summary>Project 2: Simple Library </summary>
 <a href= "https://github.com/xkyleann/Java_Portfolio/files/11770796/Lab3.pdf"> Documentation 2</a>
 </details>
+
+<details>
+<summary>Project 3: Magpies | Image Processing </summary>
+<a href= "https://github.com/xkyleann/Java_Portfolio/files/11938750/OOP_LAB4.pdf"> Documentation 3</a>
+</details>
+
+
 
 
 
