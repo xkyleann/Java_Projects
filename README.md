@@ -12,7 +12,7 @@ Description: This project demonstrates my ability to combine **_physics with obj
 
 Description: This project demonstrates my ability to using **_private fields, sorting and storing books_**. It showcases my skills in implementing orders and sorting. 
 
-### Project 3: [Image Processing | Magpies]
+### Project 3: [Image Processing | Magpies](https://github.com/xkyleann/Java_Portfolio/tree/main/Magpies_ImageProcessing)
 
 Description: The Image Processing project in Java focuses on detecting and removing specific patterns (referred to as "magpies") from an input image. It provides functionalities to load an image, convert it into a binary array, search for magpies using a reference image, and generate a clear image with the magpies removed.
 
