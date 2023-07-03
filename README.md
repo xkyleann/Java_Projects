@@ -16,6 +16,11 @@ Description: This project demonstrates my ability to using **_private fields, so
 
 Description: The Image Processing project in Java focuses on detecting and removing specific patterns (referred to as "magpies") from an input image. It provides functionalities to load an image, convert it into a binary array, search for magpies using a reference image, and generate a clear image with the magpies removed.
 
+### Project 4: [Binary Maze]
+
+Description: The MazeRunner project in Java aims to solve a maze represented as a text file. It provides functionality to load the maze, find a path from the start to the finish point, and display the solution. The program uses depth-first search and backtracking algorithms to navigate through the maze and find the optimal path.
+
+
 ## Code Samples
 
 In addition to the projects, this repository also includes a collection of Java code samples that showcase my coding style, problem-solving skills, and familiarity with Java best practices. These samples cover various topics, such as:
@@ -47,11 +52,13 @@ Thank you for visiting my Java portfolio repository!
 </details>
 
 <details>
-<summary>Project 3: Magpies | Image Processing </summary>
+<summary>Project 4: Image Processing | Magpies </summary>
 <a href= "https://github.com/xkyleann/Java_Portfolio/files/11938750/OOP_LAB4.pdf"> Documentation 3</a>
 </details>
 
-
-
+<details>
+<summary>Project 4: Binary Maze </summary>
+<a href= "https://github.com/xkyleann/Java_Portfolio/files/11938882/oo5.pdf"> Documentation 4</a>
+</details>
 
 
