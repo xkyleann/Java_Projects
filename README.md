@@ -18,7 +18,11 @@ Description: The Image Processing project in Java focuses on detecting and remov
 
 ### Project 4: [Binary Maze]
 
-Description: The MazeRunner project in Java aims to solve a maze represented as a text file. It provides functionality to load the maze, find a path from the start to the finish point, and display the solution. The program uses depth-first search and backtracking algorithms to navigate through the maze and find the optimal path.
+Description: The Binary Maze project in Java aims to solve a maze represented as a text file. It provides functionality to load the maze, find a path from the start to the finish point, and display the solution. The program uses depth-first search and backtracking algorithms to navigate through the maze and find the optimal path.
+
+### Project 5: [Plagiarism Detector]
+
+Description: This Java program detects plagiarism among scripts in a directory by comparing their similarity using the Hamming distance algorithm. It identifies copied or identical lines and displays the average Hamming distance and the number of identical lines.
 
 
 ## Code Samples
@@ -26,7 +30,7 @@ Description: The MazeRunner project in Java aims to solve a maze represented as 
 In addition to the projects, this repository also includes a collection of Java code samples that showcase my coding style, problem-solving skills, and familiarity with Java best practices. These samples cover various topics, such as:
 
 - Physics: Java class representing a system of N point electric charges, statically distributed in 3D space.
-- Simple Library: Java class Book containing three private fields and improving project with using methods.
+- Simple Library: Java class Book containing three private fields and improving projects with using methods.
 
 Feel free to explore the code samples to get a better understanding of my coding abilities and approach.
 
@@ -60,5 +64,13 @@ Thank you for visiting my Java portfolio repository!
 <summary>Project 4: Binary Maze </summary>
 <a href= "https://github.com/xkyleann/Java_Portfolio/files/11938882/oo5.pdf"> Documentation 4</a>
 </details>
+
+<details>
+<summary>Project 5: Plagiarism Detector</summary>
+<a href= "https://github.com/xkyleann/Java_Portfolio/files/11939623/oo7-2.pdf"> Documentation 5</a>
+</details>
+
+
+
 
 
