@@ -28,6 +28,10 @@ Description: This Java program detects plagiarism among scripts in a directory b
 
 Description: This project calculates the sum of an array using multithreading. It involves dividing the array into partial sums calculated by different threads. The total sum is then obtained by combining these partial sums.
 
+### Project 7: [Console Text Buffering and File Logging]
+
+Description: Implement a program to buffer console text and store it in a rolling log file system. The program creates a "data" directory, saves text in "log0.txt", and rolls logs from "log0.txt" to "log5.txt". It handles exceptions for file access and removal.
+
 
 ## Code Samples
 
@@ -79,6 +83,10 @@ Thank you for visiting my Java portfolio repository!
 <a href= "https://github.com/xkyleann/Java_Portfolio/files/11939714/oo13.pdf"> Documentation 6</a>
 </details>
 
+<details>
+<summary>Project 7: Console Text Buffering and File Logging </summary>
+<a href= "https://github.com/xkyleann/Java_Portfolio/files/11940044/oo12.pdf"> Documentation 7</a>
+</details>
 
 
 
