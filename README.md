@@ -26,7 +26,7 @@ Description: This Java program **_detects plagiarism_** among scripts in a direc
 
 ### Project 6: [Multithreading](https://github.com/xkyleann/Java_Portfolio/tree/main/MultiThreading)
 
-Description: This project calculates the sum of an array using **_ multithreading_**. It involves dividing the array into partial sums calculated by different threads. The total sum is then obtained by combining these partial sums.
+Description: This project calculates the sum of an array using **_ multithreading_** . It involves dividing the array into partial sums calculated by different threads. The total sum is then obtained by combining these partial sums.
 
 ### Project 7: [Console Text Buffering and File Logging](https://github.com/xkyleann/Java_Portfolio/tree/main/Console%20Text%20Buffering%20and%20File%20Logging)
 
