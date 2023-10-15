@@ -18,19 +18,19 @@ Description: The Image Processing project in Java focuses on detecting and remov
 
 ### Project 4: [Binary Maze](https://github.com/xkyleann/Java_Portfolio/tree/main/Binary%20Maze)
 
-Description: The Binary Maze project in Java aims to solve a maze represented as a text file. It provides functionality to load the maze, find a path from the start to the finish point, and display the solution. The program uses depth-first search and backtracking algorithms to navigate through the maze and find the optimal path.
+Description: The Binary Maze project in Java aims to solve a maze represented as a text file. It provides functionality to load the maze, find a path from the start to the finish point, and display the solution. The program uses **_depth-first search_** and **_backtracking algorithms_** to navigate through the maze and find the optimal path.
 
 ### Project 5: [Plagiarism Detector](https://github.com/xkyleann/Java_Portfolio/tree/main/PlagiarismDetector)
 
-Description: This Java program detects plagiarism among scripts in a directory by comparing their similarity using the Hamming distance algorithm. It identifies copied or identical lines and displays the average Hamming distance and the number of identical lines.
+Description: This Java program **_detects plagiarism_** among scripts in a directory by comparing their similarity using the Hamming distance algorithm. It identifies copied or identical lines and displays the average Hamming distance and the number of identical lines.
 
 ### Project 6: [Multithreading](https://github.com/xkyleann/Java_Portfolio/tree/main/MultiThreading)
 
-Description: This project calculates the sum of an array using multithreading. It involves dividing the array into partial sums calculated by different threads. The total sum is then obtained by combining these partial sums.
+Description: This project calculates the sum of an array using**_ multithreading_**. It involves dividing the array into partial sums calculated by different threads. The total sum is then obtained by combining these partial sums.
 
 ### Project 7: [Console Text Buffering and File Logging](https://github.com/xkyleann/Java_Portfolio/tree/main/Console%20Text%20Buffering%20and%20File%20Logging)
 
-Description: Implement a program to buffer console text and store it in a rolling log file system. The program creates a "data" directory, saves text in "log0.txt", and rolls logs from "log0.txt" to "log5.txt". It handles exceptions for file access and removal.
+Description: Implement a program to **_buffer console_** text and store it in a rolling log file system. The program creates a "data" directory, saves text in "log0.txt", and rolls logs from "log0.txt" to "log5.txt". It handles exceptions for file access and removal.
 
 
 ## Code Samples
