@@ -14,7 +14,7 @@ Description: This project demonstrates my ability to using **_private fields, so
 
 ### Project 3: [Image Processing | Magpies](https://github.com/xkyleann/Java_Portfolio/tree/main/Magpies_ImageProcessing)
 
-Description: The Image Processing project in Java focuses on detecting and removing specific patterns (referred to as "magpies") from an input image. It provides functionalities to load an image, convert it into a binary array, search for magpies using a reference image, and generate a clear image with the magpies removed.
+Description: The Image Processing project in Java focuses on **_detecting and removing specific patterns_** (referred to as "magpies") from an input image. It provides functionalities to load an image, convert it into a binary array, search for magpies using a reference image, and generate a clear image with the magpies removed.
 
 ### Project 4: [Binary Maze](https://github.com/xkyleann/Java_Portfolio/tree/main/Binary%20Maze)
 
