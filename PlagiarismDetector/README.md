@@ -1,3 +1,7 @@
+### Project 5: [Plagiarism Detector](https://github.com/xkyleann/Java_Portfolio/tree/main/PlagiarismDetector)
+
+Description: This Java program **_detects plagiarism_** among scripts in a directory by comparing their similarity using the Hamming distance algorithm. It identifies copied or identical lines and displays the average Hamming distance and the number of identical lines.
+
 To run the anti-plagiarism program, follow these steps:
 1. Open a text editor and copy the provided code into a new file.
 2. Save the file with the name Main.java. Make sure to save it in a directory of your choice.
